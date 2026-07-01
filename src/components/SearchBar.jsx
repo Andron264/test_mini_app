@@ -5,6 +5,7 @@ function SearchBar() {
                 type="text"
                 placeholder="🔍 Search tasks..."
             />
+            <p>sdasdsadasdadasda</p>
         </div>
     );
 }
